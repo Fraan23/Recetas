@@ -1,0 +1,42 @@
+
+body{
+    background-color: rgb(245, 248, 250);
+}
+
+h1{
+    color:rgb(17, 88, 194);
+    text-align:center;
+}
+
+
+h2{
+    color:rgb(17, 44, 165);
+    text-align:center;
+}
+
+h3{
+    color:rgb(23, 149, 153);
+    text-align:left;
+}
+
+.fondo{
+    width: 800px;
+    height:800px;
+    display:block;
+    margin: auto;
+}
+
+
+.img{
+    width: 600px;
+    height:600px;
+    display:block;
+    margin: auto;
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+    font-family: arial;
+    font-size: 20px;
+  }
